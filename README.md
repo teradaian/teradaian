@@ -6,7 +6,7 @@ developing experience with projects through open-source collaboration. That's wh
 
 
 
-- :thinking: I’m currently studying React, Redux, Javascript(forever), and delving deeper into Python.
+- :thinking: I’m currently studying NextJs, TS, and of course Javascript(forever)
 
   I'm fascinated by the Why's of programming, and the endless innumerations and improvements that go into these living languages.
 
